@@ -1,0 +1,243 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1241px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  width: 524px;
+  margin: 11px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 403px;
+  min-height: 846px;
+  margin: 67px auto 0 43px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 172px;
+  height: 172px;
+  background-image: url("images/857e458e-9e41-49d2-b73d-78302d0b9b3d1.jpg");
+  background-position: 50% 50%;
+  margin: 20px auto 0 30px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-family: Poppins;
+  line-height: 1;
+  margin: 50px 90px 0 30px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 1;
+  margin: 40px 90px 0 30px;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  font-family: Poppins;
+  line-height: 1;
+  margin: 40px 90px 0 30px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  margin: 40px auto 0 30px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none none solid;
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  margin: 40px auto 0 30px;
+  padding: 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  font-family: Poppins;
+  line-height: 1;
+  margin: 40px 90px 0 30px;
+}
+
+.u-section-1 .u-text-7 {
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  font-family: Poppins;
+  line-height: 1;
+  margin: 40px 90px 0 30px;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  letter-spacing: 1px;
+  text-shadow: 0 0 0 rgba(0,0,0,0);
+  font-size: 1.125rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  margin: -244px 38px 0 auto;
+  padding: 14px 187px 15px 185px;
+}
+
+.u-section-1 .u-table-1 {
+  width: 611px;
+  margin: -599px 38px 60px auto;
+}
+
+.u-block-7488-62 {
+  font-weight: 700;
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-7 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-11 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-15 {
+  font-weight: 700;
+}
+
+.u-section-1 .u-table-cell-19 {
+  font-weight: 700;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-btn-3 {
+    padding-left: 186px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-table-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 302px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-btn-3 {
+    padding-left: 271px;
+    padding-right: 271px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 303px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    padding-top: 13px;
+    padding-right: 182px;
+    padding-left: 180px;
+  }
+
+  .u-section-1 .u-table-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-top: 57px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 871px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 27px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 27px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 27px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 27px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 27px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: -1048px;
+    margin-left: 0;
+    padding-right: 43px;
+    padding-bottom: 14px;
+    padding-left: 42px;
+  }
+
+  .u-section-1 .u-table-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 464px;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 782px;
+  }
+}

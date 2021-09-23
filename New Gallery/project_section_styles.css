@@ -1,0 +1,122 @@
+.project-gallery-header{
+    color: #515151;
+    font-family: "Sora", Sans-serif;
+    font-size: 28px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.project-gallery-container{
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0 auto;
+    padding: 45px 0px 30px 0px;
+    background-color: #fff;
+}
+
+.project-cards-container{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+
+.gallery-card{
+    position: relative;
+    background-color: #FFFFFF;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    width: 366px;
+    margin: 1rem 0.5rem;
+    border-radius: 8px;
+    background-origin: padding-box;
+    /* padding: 29px; */
+}
+
+.gallery-card-1{
+    background-image: url(https://lowsoot.staging.tempurl.host/wp-content/uploads/2021/09/ph2.jpg);
+}
+
+.gallery-card-2{
+    background-image: url(https://lowsoot.staging.tempurl.host/wp-content/uploads/2021/09/ebike.jpg);
+}
+
+.gallery-card-3{
+    background-image: url(https://lowsoot.staging.tempurl.host/wp-content/uploads/2021/09/photo1.jpg);
+}
+
+.color-overlay{
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0.45;
+    position: absolute;
+    z-index: 0;
+    border-radius: 8px;
+
+}
+@keyframes overlay-animation{
+    from{
+        opacity: 0.45;
+    }
+    to{
+        opacity: 0.7;
+    }
+}
+.color-overlay:hover{
+    animation-name: overlay-animation;
+    animation-duration: 1.3s;
+}
+
+.card-title{
+    color: #FFFFFF;
+    font-family: "Sora", Sans-serif;
+    font-size: 27px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    max-width: 14rem;
+    position: inherit;
+    z-index: 1;
+    margin: 5.3rem 0 0 2rem;
+    line-height: 23px;
+}
+
+.card-info{
+    font-family: "Sora", Sans-serif;
+    font-size: 12px;
+    font-weight: 800;
+    color: #fff;
+    margin-bottom: 2.5rem;
+    position: inherit;
+    z-index: 1;
+    margin: 1rem 0 0.5rem 2rem;
+}
+
+.button{
+    display: inline-block;
+    font-family: "Sora", Sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    color: #fff;
+    border: none;
+    background-color: #F2985E;
+    border-radius: 5px 5px 5px 5px;
+    padding: 20px 20px 20px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    position: inherit;
+    z-index: 1;
+    margin: 0.8rem 0 0 2rem;
+    transition: transform .2s ease-in-out;
+}
+
+.button:hover{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    background-color: #000;
+}
